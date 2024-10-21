@@ -32,7 +32,7 @@ Intermediate FSC-Pre Engineering (2016 - 2018)
 WordPress (Elementor, Divi, WP-Bakery)  
 HTML, CSS, SASS, SCSS 
 Bootstrap 
-avaScript (Basic Knowledge)  
+JavaScript (Basic Knowledge)  
 Website Types: Business, Corporate, Blogs, E-commerce  
 Team Leadership, Mentoring, Project Management
 
