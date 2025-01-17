@@ -33,6 +33,7 @@ WordPress (Elementor, Divi, WP-Bakery)
 HTML, CSS, SASS, SCSS 
 Bootstrap 
 JavaScript (Basic Knowledge)  
+React, NextJs
 Website Types: Business, Corporate, Blogs, E-commerce  
 Team Leadership, Mentoring, Project Management
 
