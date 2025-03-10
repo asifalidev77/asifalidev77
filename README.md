@@ -1,6 +1,6 @@
 Hi, I'm Asif Ali 👋
 
-I'm a passionate **Front-end Developer** and **Team Lead** with experience in WordPress, HTML, CSS, SASS, SCSS, and Bootstrap, along with a touch of JavaScript. I love creating clean, user-friendly websites and guiding teams to deliver high-quality web projects. Welcome to my GitHub profile!
+I'm a passionate Front-end Developer and Team Lead with experience in Next.js, TypeScript, Material-UI, WordPress, HTML, CSS, SASS, SCSS, and Bootstrap, along with a touch of JavaScript. I love creating clean, user-friendly websites and guiding teams to deliver high-quality web projects. Welcome to my GitHub profile!
 
 👨‍💻 Professional Experience
 Front-end Developer (Mentor-Team Lead)  
